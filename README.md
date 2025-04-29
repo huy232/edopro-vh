@@ -35,12 +35,12 @@ Sau đó, vào game, sẽ tự động việt hóa những lá bài hiện có.
 > [!IMPORTANT]
 > Những nguồn cho Repo này.
 
-Mình sử dụng, modify file `string.conf` từ nguồn này:
-- [Repo Edopro-Card-Vietsub của TriDungSongToan](https://github.com/TriDungSongToan/Edopro-Card-VietSub)
+* Mình sử dụng và modify file *`string.conf`* từ nguồn này:
+  - [ Repo Edopro-Card-Vietsub của TriDungSongToan](https://github.com/TriDungSongToan/Edopro-Card-VietSub)
 
-Những thẻ bài việt hóa chủ yếu đến từ API:
-- [YGO Việt Nam](https://ygovietnam.com/)
+* Những thẻ bài việt hóa chủ yếu đến từ API:
+  - [YGO Việt Nam](https://ygovietnam.com/)
 
-Việt hóa hiệu ứng của những lá bài:
-- Chủ yếu mình tự dịch
+* Việt hóa hiệu ứng của những lá bài:
+  - Chủ yếu mình tự dịch
 
