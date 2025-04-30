@@ -10,16 +10,16 @@ Mở file *user_configs.json* bằng **Notepad** hoặc bất kỳ trình đọc
 {
   "repos": [
     <!-- Các gói repo khác  -->
-    {
-		  "url": "https://github.com/huy232/edopro-vh",
-			"repo_name": "EDOPro Tiếng Việt",
-			"repo_path": "./config/languages",
-			"is_language": true,
-			"data_path": "",
-			"language": "",
-			"should_update": true,
-			"should_read": true 
-    }
+    		{
+          "url": "https://github.com/huy232/edopro-vh",
+          "repo_name": "EDOPro Tiếng Việt",
+          "repo_path": "./config/languages/Tiếng Việt",
+          "is_language": true,
+          "data_path": "",
+          "language": "",
+          "should_update": true,
+          "should_read": true
+        }
     <!-- Các gói repo khác -->
   ],
   "urls" : [
