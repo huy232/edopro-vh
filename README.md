@@ -31,11 +31,12 @@ Mở file *user_configs.json* bằng **Notepad** hoặc bất kỳ trình đọc
 Sau đó, vào game.
 Trước tiên bạn hãy kiểm tra xem việc cài đặt tiếng Việt đã thành công chưa bằng việc:
 
-![CheckInstall](https://i.imgur.com/xIq8rGr.png)
+<img src="https://i.imgur.com/xIq8rGr.png" alt="Check install" width="480px" height="auto">
 
 Nếu đã thành công, hãy mở Menu lên và thay đổi sang ngôn ngữ Tiếng Việt
 
-![CheckInstall2](https://i.imgur.com/qjgHzC2.png)
+<img src="https://i.imgur.com/qjgHzC2.png" alt="Check install 2" width="480px" height="auto">
+
 
 Game sẽ tự động việt hóa những lá bài hiện có.
 
