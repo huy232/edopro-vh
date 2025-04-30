@@ -38,11 +38,13 @@ Nếu đã thành công, hãy mở Menu lên và thay đổi sang ngôn ngữ Ti
 ![CheckInstall2](https://i.imgur.com/qjgHzC2.png)
 
 Game sẽ tự động việt hóa những lá bài hiện có.
-Đã dịch hiện tại:
-✅ Những lá bài Official TCG-OCG: 13727 lá bài
-✅ Những lá bài GOAT Format: 1799 lá bài
-✅ Những lá bài EDISON Format: 3839 lá bài
-🔳 Những lá bài Rush Duel: 2684 lá bài
+
+Tiến độ hiện tại:
+
+- ✅ Những lá bài Official TCG-OCG: 13727 lá bài
+- ✅ Những lá bài GOAT Format: 1799 lá bài
+- ✅ Những lá bài EDISON Format: 3839 lá bài
+- 🔳 Những lá bài Rush Duel: 2684 lá bài
 
 > [!CAUTION]
 > Nếu có những lá mới hơn chưa được dịch sẽ tự fallback những lá đó về Tiếng Anh hoặc ngôn ngữ phù hợp.
