@@ -45,7 +45,7 @@ Tiến độ hiện tại:
 - ✅ Những lá bài Official TCG-OCG: 13727 lá bài
 - ✅ Những lá bài GOAT Format: 1799 lá bài
 - ✅ Những lá bài EDISON Format: 3839 lá bài
-- 🔳 Những lá bài Rush Duel: 2684 lá bài
+- ✅ Những lá bài Rush Duel: 2684 lá bài
 
 > [!CAUTION]
 > Nếu có những lá mới hơn chưa được dịch sẽ tự fallback những lá đó về Tiếng Anh hoặc ngôn ngữ phù hợp.
