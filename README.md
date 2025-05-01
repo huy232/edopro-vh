@@ -46,6 +46,7 @@ Tiến độ hiện tại:
 - ✅ Những lá bài GOAT Format: 1799 lá bài
 - ✅ Những lá bài EDISON Format: 3839 lá bài
 - ✅ Những lá bài Rush Duel: 2684 lá bài
+- ✅ Update tạm thời hơn 60 Pre-Errata Card
 - 🔳 -----------------------------------
 - 🔳 -----------------------------------
 
@@ -62,5 +63,5 @@ Tiến độ hiện tại:
   - [YGO Việt Nam](https://ygovietnam.com/)
 
 * Việt hóa hiệu ứng của những lá bài:
-  - Chủ yếu mình tự dịch
+  - Chủ yếu mình tự dịch + AI Translate
 
