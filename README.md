@@ -47,6 +47,8 @@ Tiến độ hiện tại:
 - ✅ Những lá bài EDISON Format: 3839 lá bài
 - ✅ Những lá bài Rush Duel: 2684 lá bài
 - ✅ Update tạm thời hơn 60 Pre-Errata Card
+- ✅ Cards.delta
+- ✅ Pre-release
 - 🔳 -----------------------------------
 - 🔳 -----------------------------------
 
