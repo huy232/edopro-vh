@@ -49,7 +49,7 @@ Tiến độ hiện tại:
 - ✅ Update tạm thời hơn 60 Pre-Errata Card
 - ✅ Cards.delta
 - ✅ Pre-release
-- 🔳 -----------------------------------
+- ✅ Re-release
 - 🔳 -----------------------------------
 
 > [!CAUTION]
